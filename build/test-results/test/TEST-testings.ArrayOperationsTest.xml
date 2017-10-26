@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="testings.ArrayOperationsTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2017-10-09T13:01:38" hostname="Anvym6" time="0.013">
+<testsuite name="testings.ArrayOperationsTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2017-10-26T12:19:37" hostname="DESKTOP-CO2J425" time="0.008">
   <properties/>
-  <testcase name="evenNumbersTest" classname="testings.ArrayOperationsTest" time="0.007"/>
+  <testcase name="evenNumbersTest" classname="testings.ArrayOperationsTest" time="0.003"/>
   <testcase name="checkNullArray" classname="testings.ArrayOperationsTest" time="0.0"/>
   <testcase name="meanTest" classname="testings.ArrayOperationsTest" time="0.0"/>
   <testcase name="moduleMaxTest" classname="testings.ArrayOperationsTest" time="0.0"/>
