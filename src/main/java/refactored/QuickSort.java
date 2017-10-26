@@ -8,7 +8,7 @@ public class QuickSort implements Sorting {
             return;
         if (start >= end)
             return;
-
+//test
         int middle = start + (end - start) / 2;
         int pivot = array[middle];
 
